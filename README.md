@@ -1,22 +1,47 @@
 # Daily Focus Tracker
 
-A simple Python console app to track daily focus tasks.
+A simple Python console application that helps users track daily focus tasks and mark them as completed.
 
-## What it does
-- Lets you enter your daily task
-- Marks it as completed or not
-- Saves tasks in a text file
-- Shows total completed tasks
+This project was built to practice Python fundamentals like input/output, functions, conditional logic, and file handling.
+
+---
+
+## Features
+
+- Add a daily focus task
+- Mark task as completed or not completed
+- Automatically saves tasks in a text file
+- Displays total number of completed tasks
+
+---
+
+## How to Run
+
+1. Clone the repository
+2. Open terminal inside the project folder
+3. Run the following command:
+
+python focus_tracker.py
+
+---
 
 ## Built With
-- Python
-- Basic functions
-- File handling
 
-## Why I Made This
-I built this project to practice Python basics like input/output, functions, and working with files.
+- Python 3
+- File handling
+- Basic functions and conditional statements
+
+---
+
+## Project Goal
+
+The goal of this project is to strengthen core Python concepts and build consistency through small practical applications.
+
+---
 
 ## Future Improvements
-- Add delete option
+
+- Add task deletion option
 - Add date tracking
-- Convert to GUI or web app
+- Add progress percentage
+- Convert to GUI (Tkinter) or Web App (Flask)
